@@ -2,11 +2,11 @@ package hello;
 
 public class DataAccess {
 	
-	public final int sno;
+	public final int serialno;
 	public final String name;
 	public final int value;
 	
-	 public int getSno() {
+	 public int getSerialno() {
 	        return sno;
 	    }
 
